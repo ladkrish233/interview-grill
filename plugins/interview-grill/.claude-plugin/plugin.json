@@ -1,0 +1,8 @@
+{
+  "name": "interview-grill",
+  "version": "0.1.0",
+  "description": "/interview-prep: reads a CV and the candidate's public GitHub repos, checks who really wrote what, and writes interview questions pinned to their own code.",
+  "author": {
+    "name": "OneRock"
+  }
+}

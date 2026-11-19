@@ -1,0 +1,14 @@
+{
+  "name": "interview-grill",
+  "owner": {
+    "name": "OneRock"
+  },
+  "plugins": [
+    {
+      "name": "interview-grill",
+      "source": "./plugins/interview-grill",
+      "description": "Prepare interview questions from a CV, a role and the candidate's GitHub repos"
+    }
+  ],
+  "description": "Interview preparation tools"
+}
